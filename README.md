@@ -1,1 +1,1 @@
-# webgis-
+#使用openlayers和geoserver实现的操作地图简单，包括空间和属性查询
